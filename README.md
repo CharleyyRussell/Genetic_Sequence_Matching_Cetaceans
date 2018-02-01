@@ -28,9 +28,9 @@ When making the bash script to allow your program to run from terminal this is t
 #rscript with this "relatedness_*.csv" name
 
 >for i in relatedness_*.csv; do 
-    >echo $i
-    >python ~/Documents/Bioinformatics/FINAL_project/My_Data/Relatedness.py $i 
->done
+    echo $i
+    python ~/Documents/Bioinformatics/FINAL_project/My_Data/Relatedness.py $i 
+done
 
 If you are using Linux then this script is called 'script.sh' you can just use that.
 
