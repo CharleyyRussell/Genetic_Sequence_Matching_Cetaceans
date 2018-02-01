@@ -103,9 +103,9 @@ DataUK.csv and Data_Hetero_fix.csv are the example input files and these contain
 ## References
 Blouin. M.S, et al., 1996. Use of Microsatellite loci to classify individuals by relatedness. Molecular Ecology, 5, 393-401.
 
-Kraemer. P., 2017. Package 'Demerelate'. CRAN_R-project.org
+Kraemer. P., 2017. Package 'Demerelate'. CRAN.R-project.org
 
-Jombart. T, et al., 2017. Package 'adegenet'. CRAN_R-project.org
+Jombart. T, et al., 2017. Package 'adegenet'. CRAN.R-project.org
 
 Ritland. K., 2000. Marker-Inferred relatedness as a tool for dectecting heritability in nature. Molecular Ecology, 9, 1195-1204.
 
