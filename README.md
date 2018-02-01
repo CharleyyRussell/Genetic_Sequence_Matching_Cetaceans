@@ -98,7 +98,7 @@ Summary.txt <- This is a file that contains data on the expected and observed he
 [name of input file].txt <- This file contains the list of relatedness from python as stated in the input.
 
 ## Example 
-Within the example file you will find a dataset that contains around 600 harbor porpoise microsatellite data that was collected around the UK. You can use this to check the outcome of the program but it can be useful to check to make sure your data is within the correct format.
+DataUK.csv and Data_Hetero_fix.csv are the example input files and these contain a data of around 600 harbor porpoise microsatellite data that was collected around the UK. You can use this to check the outcome of the program but it can be useful to check to make sure your data is within the correct format.
 
 ## References
 Blouin. M.S, et al., 1996. Use of Microsatellite loci to classify individuals by relatedness. Molecular Ecology, 5, 393-401.
