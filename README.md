@@ -18,19 +18,19 @@ There is three stages to this script. The first is a R script, second is a Pytho
 
 When making the bash script to allow your program to run from terminal this is the code you must use (take into account that where it says the path to each file, edit this to the path that your files are in):
 
-#!/bin/bash
+>#!/bin/bash
 
 #will open r and execute the rscript
 
-Rscript ~/Documents/Bioinformatics/FINAL_project/My_Data/RScript_corrected.R
+>Rscript ~/Documents/Bioinformatics/FINAL_project/My_Data/RScript_corrected.R
 
 #will execute the python script, running through all the outputfiles from the
 #rscript with this "relatedness_*.csv" name
 
-for i in relatedness_*.csv; do 
-    echo $i
-    python ~/Documents/Bioinformatics/FINAL_project/My_Data/Relatedness.py $i 
-done
+>for i in relatedness_*.csv; do 
+    >echo $i
+    >python ~/Documents/Bioinformatics/FINAL_project/My_Data/Relatedness.py $i 
+>done
 
 If you are using Linux then this script is called 'script.sh' you can just use that.
 
